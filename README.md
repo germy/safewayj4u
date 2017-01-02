@@ -9,3 +9,5 @@ Requirements:
 * geckodriver (for firefox, update the path in the program)
 
 To run: python clip.py [email] [ j4u password]
+
+I ran this script on a cron job.
